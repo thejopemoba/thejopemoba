@@ -6,7 +6,7 @@
 ### Sobre mim
 - Atualmente trabalhando com desenvolvimento web
 - Aprimorando conhecimentos em PHP e desenvolvimento web
-- Como me encontrar: [LinkedIn](https://linkedin.com/in/joao-pedro-monteiro-barbosa/)
+- Como me encontrar: [LinkedIn](https://linkedin.com/in/joao-pedro-monteiro-barbosa/), [Meu site](https://thejope.dev/)
 
 ### Tecnologias e Ferramentas
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -16,6 +16,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-
-Ass: thejope.dev
-Email: contato@thejope.dev
+contato@thejope.dev
